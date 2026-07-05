@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/mohitraj3659/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitraj3659/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mohitraj3659/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3809-best-reachable-tower](https://github.com/mohitraj3659/Leetcode/tree/master/3809-best-reachable-tower) |
 ## Matrix
 |  |
 | ------- |
