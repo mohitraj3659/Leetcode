@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/mohitraj3659/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitraj3659/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mohitraj3659/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitraj3659/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3809-best-reachable-tower](https://github.com/mohitraj3659/Leetcode/tree/master/3809-best-reachable-tower) |
 | [3833-count-dominant-indices](https://github.com/mohitraj3659/Leetcode/tree/master/3833-count-dominant-indices) |
 ## Matrix
@@ -56,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitraj3659/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohitraj3659/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
