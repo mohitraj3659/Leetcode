@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/mohitraj3659/Leetcode/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/mohitraj3659/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/mohitraj3659/Leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/mohitraj3659/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitraj3659/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mohitraj3659/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/mohitraj3659/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitraj3659/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
