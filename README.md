@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitraj3659/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mohitraj3659/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/mohitraj3659/Leetcode/tree/master/3798-largest-even-number) |
@@ -50,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitraj3659/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mohitraj3659/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Enumeration
 |  |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mohitraj3659/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitraj3659/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohitraj3659/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
