@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mohitraj3659/Leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/mohitraj3659/Leetcode/tree/master/0054-spiral-matrix) |
 | [0238-product-of-array-except-self](https://github.com/mohitraj3659/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mohitraj3659/Leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/mohitraj3659/Leetcode/tree/master/0724-find-pivot-index) |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohitraj3659/Leetcode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/mohitraj3659/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mohitraj3659/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mohitraj3659/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/mohitraj3659/Leetcode/tree/master/0412-fizz-buzz) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mohitraj3659/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mohitraj3659/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
