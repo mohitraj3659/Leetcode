@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2810-faulty-keyboard](https://github.com/mohitraj3659/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitraj3659/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitraj3659/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitraj3659/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3582-generate-tag-for-video-caption](https://github.com/mohitraj3659/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mohitraj3659/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/mohitraj3659/Leetcode/tree/master/3798-largest-even-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitraj3659/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitraj3659/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mohitraj3659/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitraj3659/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitraj3659/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohitraj3659/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohitraj3659/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
