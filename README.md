@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohitraj3659/Leetcode/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/mohitraj3659/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/mohitraj3659/Leetcode/tree/master/0520-detect-capital) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitraj3659/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohitraj3659/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohitraj3659/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
