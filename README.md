@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitraj3659/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mohitraj3659/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitraj3659/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3663-find-the-least-frequent-digit](https://github.com/mohitraj3659/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3809-best-reachable-tower](https://github.com/mohitraj3659/Leetcode/tree/master/3809-best-reachable-tower) |
 | [3833-count-dominant-indices](https://github.com/mohitraj3659/Leetcode/tree/master/3833-count-dominant-indices) |
 ## Matrix
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitraj3659/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3663-find-the-least-frequent-digit](https://github.com/mohitraj3659/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mohitraj3659/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Enumeration
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitraj3659/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitraj3659/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohitraj3659/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3663-find-the-least-frequent-digit](https://github.com/mohitraj3659/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohitraj3659/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitraj3659/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3663-find-the-least-frequent-digit](https://github.com/mohitraj3659/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Stack
 |  |
 | ------- |
