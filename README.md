@@ -91,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/mohitraj3659/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3833-count-dominant-indices](https://github.com/mohitraj3659/Leetcode/tree/master/3833-count-dominant-indices) |
 ## Math
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/mohitraj3659/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitraj3659/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2427-number-of-common-factors](https://github.com/mohitraj3659/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitraj3659/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mohitraj3659/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitraj3659/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -127,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitraj3659/Leetcode/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/mohitraj3659/Leetcode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/mohitraj3659/Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/mohitraj3659/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
