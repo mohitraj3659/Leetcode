@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/mohitraj3659/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitraj3659/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/mohitraj3659/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mohitraj3659/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitraj3659/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mohitraj3659/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mohitraj3659/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/mohitraj3659/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/mohitraj3659/Leetcode/tree/master/0520-detect-capital) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitraj3659/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mohitraj3659/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mohitraj3659/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mohitraj3659/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/mohitraj3659/Leetcode/tree/master/2810-faulty-keyboard) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitraj3659/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mohitraj3659/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitraj3659/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/mohitraj3659/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
