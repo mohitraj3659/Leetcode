@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitraj3659/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/mohitraj3659/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitraj3659/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/mohitraj3659/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1480-running-sum-of-1d-array](https://github.com/mohitraj3659/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mohitraj3659/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitraj3659/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/mohitraj3659/Leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/mohitraj3659/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitraj3659/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/mohitraj3659/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [2427-number-of-common-factors](https://github.com/mohitraj3659/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitraj3659/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mohitraj3659/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
