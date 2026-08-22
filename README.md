@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitraj3659/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitraj3659/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohitraj3659/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mohitraj3659/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/mohitraj3659/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohitraj3659/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
