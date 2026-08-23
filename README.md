@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mohitraj3659/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/mohitraj3659/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/mohitraj3659/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitraj3659/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/mohitraj3659/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mohitraj3659/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 ## Greedy
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/mohitraj3659/Leetcode/tree/master/2427-number-of-common-factors) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mohitraj3659/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
