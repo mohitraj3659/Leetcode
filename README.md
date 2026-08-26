@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/mohitraj3659/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/mohitraj3659/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mohitraj3659/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3285-find-indices-of-stable-mountains](https://github.com/mohitraj3659/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitraj3659/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3663-find-the-least-frequent-digit](https://github.com/mohitraj3659/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3809-best-reachable-tower](https://github.com/mohitraj3659/Leetcode/tree/master/3809-best-reachable-tower) |
