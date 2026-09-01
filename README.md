@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/mohitraj3659/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/mohitraj3659/Leetcode/tree/master/0520-detect-capital) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/mohitraj3659/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohitraj3659/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mohitraj3659/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mohitraj3659/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/mohitraj3659/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitraj3659/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/mohitraj3659/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/mohitraj3659/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2427-number-of-common-factors](https://github.com/mohitraj3659/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitraj3659/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mohitraj3659/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
