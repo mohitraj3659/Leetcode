@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3833-count-dominant-indices](https://github.com/mohitraj3659/Leetcode/tree/master/3833-count-dominant-indices) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mohitraj3659/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/mohitraj3659/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/mohitraj3659/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/mohitraj3659/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/mohitraj3659/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/mohitraj3659/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/mohitraj3659/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
