@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2022-convert-1d-array-into-2d-array](https://github.com/mohitraj3659/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mohitraj3659/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2810-faulty-keyboard](https://github.com/mohitraj3659/Leetcode/tree/master/2810-faulty-keyboard) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mohitraj3659/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/mohitraj3659/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
 ## Binary Search
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitraj3659/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mohitraj3659/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitraj3659/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mohitraj3659/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mohitraj3659/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohitraj3659/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mohitraj3659/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/mohitraj3659/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mohitraj3659/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
 | ------- |
@@ -168,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mohitraj3659/Leetcode/tree/master/0231-power-of-two) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/mohitraj3659/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
