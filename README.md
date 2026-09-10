@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitraj3659/Leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/mohitraj3659/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/mohitraj3659/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/mohitraj3659/Leetcode/tree/master/0520-detect-capital) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mohitraj3659/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitraj3659/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohitraj3659/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mohitraj3659/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mohitraj3659/Leetcode/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitraj3659/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/mohitraj3659/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
