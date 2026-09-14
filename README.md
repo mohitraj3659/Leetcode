@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/mohitraj3659/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/mohitraj3659/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohitraj3659/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/mohitraj3659/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/mohitraj3659/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mohitraj3659/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2427-number-of-common-factors](https://github.com/mohitraj3659/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/mohitraj3659/Leetcode/tree/master/0231-power-of-two) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mohitraj3659/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/mohitraj3659/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
