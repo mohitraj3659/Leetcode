@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/mohitraj3659/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2810-faulty-keyboard](https://github.com/mohitraj3659/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/mohitraj3659/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/mohitraj3659/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/mohitraj3659/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohitraj3659/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitraj3659/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/mohitraj3659/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3498-reverse-degree-of-a-string](https://github.com/mohitraj3659/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/mohitraj3659/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mohitraj3659/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/mohitraj3659/Leetcode/tree/master/3798-largest-even-number) |
